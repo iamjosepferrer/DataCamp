@@ -1,0 +1,10 @@
+markitdown[pdf,docx,pptx,xlsx]==0.1.7
+qdrant-client==1.19.0
+sentence-transformers==6.0.1
+pypdf==5.9.0
+tiktoken
+# only needed to generate the sample corpus
+reportlab
+python-docx
+openpyxl
+python-pptx
